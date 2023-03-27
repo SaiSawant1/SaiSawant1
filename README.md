@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Your Name], a [Your Profession] based in [Your Location]. I'm passionate about [Your Interests] and love to [Your Hobbies].
+I'm Sai Sawant, a Second Year Computer Science Student based in India. Have a passion for developing applications that can be used in real word and love to work with fellow developers on projects.
 
 ## 🔭 Current projects
 - React project [https://github.com/SaiSawant1/KeeperApp/]
