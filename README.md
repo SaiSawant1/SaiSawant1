@@ -5,7 +5,8 @@ I'm Sai Sawant, a Second Year Computer Science Student based in India. Have a pa
 ## 🔭 Current projects
 - React project [https://github.com/SaiSawant1/KeeperApp/]
 - Currently Working on few
-- will be live when completed
+  -Social media app 
+  - will be live when completed
 
 ## 🌱 Skills
 
