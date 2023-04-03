@@ -4,9 +4,7 @@ I'm Sai Sawant, a Second Year Computer Science Student based in India. Have a pa
 
 ## 🔭 Current projects
 - React project [https://github.com/SaiSawant1/KeeperApp/]
-- Currently Working on few
-  -Social media app 
-  - will be live when completed
+- Flick social media app [https://github.com/SaiSawant1/Flickgram]
 
 ## 🌱 Skills
 
