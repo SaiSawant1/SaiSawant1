@@ -10,7 +10,7 @@ I'm Sai Sawant, a Second Year Computer Science Student based in India. Have a pa
 
 - Programming languages: C++,Python,JS,HTML,CSS.
 - Frameworks and libraries: React, Tailwind CSS, SCSS.
-- Back End- NodeJs,MongoDB 
+- Back End- NodeJs,MongoDB,Express
 
 ## 📫 How to reach me
 
