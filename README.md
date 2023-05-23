@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saisawant1" alt="saisawant1" /></a> </p>
 
-- 🔭 I’m currently working on [CryptoVerse](https://github.com/SaiSawant1/CryptoVerse)
+- 🔭 I’m currently working on [CryptoVerse](https://github.com/SaiSawant1/CryptoVerse),[Todo App](https://github.com/SaiSawant1/todo)
 
 - 🌱 I’m currently learning **Redux Tool Kit**
 
